@@ -1,1 +1,1 @@
-# solidity-programming-language
+# Solidity Programming Language
