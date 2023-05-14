@@ -2,16 +2,6 @@
 
 ![image](https://github.com/basant-karki/solidity-programming-language/assets/123530150/91970be1-e5ab-4530-84f7-f329373a768e)
 
-// SPDX-License-Identifier: GPL-3.0
-pragma solidity 0.8.7;
-
-contract stateVariable{
-// Variables that are outside of functions but inside of contract are known as the state variables
-string public stateVar = "We are Auditors";
-uint public ourGf = 0;
-
-}
-
    - The keyword contract is used to define a new smart contract in Solidity. In this case, the contract is named helloworld.
 
    - The contract helloworld has a single state variable called firstoutput, which is declared as a string type. State variables are persistent variables that store data in the contract's storage.
