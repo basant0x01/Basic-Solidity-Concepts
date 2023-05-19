@@ -9,5 +9,6 @@ contract DataTypes{
     address public owner = 0x5B38Da6a701c568545dCfcB03FcB875f56beddC4;
     bool public isOwner = true; //  default = false
     bytes2 public char = "ab"; // bytes5 public char = "abcde";
+    // Output of bytes are always in Hex form
     
 }
