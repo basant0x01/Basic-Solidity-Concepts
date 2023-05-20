@@ -8,6 +8,7 @@ contract DataTypes{
     /*
     uint means(unsigned integer), no negetive number
     uint8 = 2**8 - 1 (255) and uint16 = 2**16 -1 (65535)
+    there are total uint8 - uint256
     */
     uint public age = 65; 
     address public owner = 0x5B38Da6a701c568545dCfcB03FcB875f56beddC4;
