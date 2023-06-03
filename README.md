@@ -35,7 +35,6 @@ Solidity is an object-oriented programming language for implementing smart contr
 - [Function Modifier]()
 - [Ether - Send, Call & Transfer]()
 - [DelegateCall]()
-- [Immutability]()
 - [Data Location - Storage, Memory & Calldata]()
 - [Inbuilt Cryptographic Hash - Keccak256, Sha256, Ripemd160]()
 - [Solidity ABI Encode/Decode]()
