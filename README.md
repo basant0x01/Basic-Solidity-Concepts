@@ -11,6 +11,7 @@ Solidity is an object-oriented programming language for implementing smart contr
 - [Data Types]()
 - [Immutable]()
 - [Functions]()
+- [Ether & Wei]()
 - [Function Visibility]()
 - [Pure Vs View]()
 - [Default Values]()
