@@ -12,8 +12,12 @@ string public stateVar = "We are Auditors";
 uint public ourGf = 0;
 int public temp;
 
-function setter(int _temp) public [
+function setter(int _temp) public {
     temp = _temp;
+  }
+  
+function reader() public view returns(int){
+    return temp;  
   }
 
 }
