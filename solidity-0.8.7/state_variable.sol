@@ -10,5 +10,10 @@ contract stateVariable{
 // Also state variables are directly deployed on the blockchain
 string public stateVar = "We are Auditors";
 uint public ourGf = 0;
+int public temp;
+
+function setter(int _temp) public [
+    temp = _temp;
+  }
 
 }
