@@ -17,6 +17,7 @@ Solidity is an object-oriented programming language for implementing smart contr
 - [Pure Vs View]()
 - [Default Values]()
 - [Constants]()
+- [Bitwise Operators]()
 - [Constructor]()
 - [Loops]()
 - [If Else]()
@@ -44,4 +45,5 @@ Solidity is an object-oriented programming language for implementing smart contr
 - [Solidity Try Catch Block]()
 - [Super Keywords]()
 - [Calling Other Contracts]()
+- [Creating Contracts from Contract]()
 - [Import Contracts]()
