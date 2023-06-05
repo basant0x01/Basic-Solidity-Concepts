@@ -4,9 +4,9 @@ Solidity is an object-oriented programming language for implementing smart contr
 
 ## Solidity 0.8.7 Topics
 
-- [Helloworld](https://github.com/basant-karki/solidity-programming-language/blob/main/explainations/helloworld.md) - [Code](https://github.com/basant-karki/solidity-programming-language/blob/main/solidity-0.8.7/helloworld.sol)
-- [State Variable]()
-- [Local Variable]()
+-1. [Helloworld](https://github.com/basant-karki/solidity-programming-language/blob/main/explainations/helloworld.md) - [Code](https://github.com/basant-karki/solidity-programming-language/blob/main/solidity-0.8.7/helloworld.sol)
+-2. [State Variable]()
+-3. [Local Variable]()
 - [Global Variable]()
 - [Data Types]()
 - [Immutable]()
