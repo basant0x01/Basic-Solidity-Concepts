@@ -15,7 +15,7 @@ Solidity is an object-oriented programming language for implementing smart contr
 - [Gas Spent & Gas Price] - [Code](https://github.com/basant0x01/solidity-programming-language/blob/main/solidity-0.8.7/gasSpend_and_gasPrice.sol)
 - [Function Visibility] - [Coce](https://github.com/basant0x01/solidity-programming-language/blob/main/solidity-0.8.7/function_visibility.sol#L31)
 - [Pure Vs View] - [Code](https://github.com/basant0x01/solidity-programming-language/blob/main/solidity-0.8.7/pure_vs_view.sol)
-- [Default Values]
+- [Default Values] - [Code](https://github.com/basant0x01/solidity-programming-language/blob/main/solidity-0.8.7/data_types.sol)
 - [Constants]
 - [Bitwise Operators]
 - [Constructor]
