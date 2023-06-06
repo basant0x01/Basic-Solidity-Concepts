@@ -3,7 +3,7 @@ pragma solidity ^0.8.7;
 
 contract constantExample{
 
-   // We can't change the value of constant once the contract deployed.
+   // The "constant" keyword indicates that the variable's value cannot be changed after it is assigned
    // constant only allows hardcoded value
    // we can't use constant inside the constructor
    // variable should be in Uppercase while declearing constant [ Good Praticce Only ]
