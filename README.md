@@ -12,7 +12,7 @@ Solidity is an object-oriented programming language for implementing smart contr
 - [Immutable] - [Code](https://github.com/basant0x01/solidity-programming-language/blob/main/solidity-0.8.7/immutable.sol)
 - [Functions] - [Code](https://github.com/basant0x01/solidity-programming-language/blob/main/solidity-0.8.7/function.sol)
 - [Ether & Wei] - [Code](https://github.com/basant0x01/solidity-programming-language/blob/main/solidity-0.8.7/ether_and_wei.sol)
-- [Gas Spent & Gas Price]
+- [Gas Spent & Gas Price] - [Code](https://github.com/basant0x01/solidity-programming-language/blob/main/solidity-0.8.7/gasSpend_and_gasPrice.sol)
 - [Function Visibility]
 - [Pure Vs View] - [Code](https://github.com/basant0x01/solidity-programming-language/blob/main/solidity-0.8.7/pure_vs_view.sol)
 - [Default Values]
