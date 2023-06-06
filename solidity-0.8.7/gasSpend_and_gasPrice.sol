@@ -11,6 +11,7 @@ contract gasPriceAndSpent{
     // total gas cost = gas spent * gas price
     
    string name = "basant";
+   uint public counter;
 
     // only getting value from the blockchain: 3409 gas (execuation cost)
    function getName() public view returns(string memory){
@@ -25,6 +26,13 @@ contract gasPriceAndSpent{
     // preforming calculation: 359 gas (execuation cost)
    function calc() public pure returns(uint){
        return 12 + 12;
+   }
+
+    // This loop will only stop when all the gas will finished
+   function loop() public {
+       while(true){
+           counter = counter + 1;
+       }
    }
 
 }
