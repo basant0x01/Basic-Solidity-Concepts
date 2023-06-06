@@ -5,16 +5,16 @@ Solidity is an object-oriented programming language for implementing smart contr
 ## Solidity 0.8.7 Topics
 
 - [Helloworld](https://github.com/basant-karki/solidity-programming-language/blob/main/explainations/helloworld.md) - [Code](https://github.com/basant-karki/solidity-programming-language/blob/main/solidity-0.8.7/helloworld.sol)
-- [State Variable](https://github.com/basant0x01/solidity-programming-language/blob/main/solidity-0.8.7/state_variable.sol)
-- [Local Variable](https://github.com/basant0x01/solidity-programming-language/blob/main/solidity-0.8.7/local_variables.sol)
-- [Global Variable](https://github.com/basant0x01/solidity-programming-language/blob/main/solidity-0.8.7/global_variables.sol)
-- [Data Types](https://github.com/basant0x01/solidity-programming-language/blob/main/solidity-0.8.7/data_types.sol)
-- [Immutable](https://github.com/basant0x01/solidity-programming-language/blob/main/solidity-0.8.7/immutable.sol)
-- [Functions](https://github.com/basant0x01/solidity-programming-language/blob/main/solidity-0.8.7/function.sol)
-- [Ether & Wei](https://github.com/basant0x01/solidity-programming-language/blob/main/solidity-0.8.7/ether_and_wei.sol)
+- [State Variable] - [Code](https://github.com/basant0x01/solidity-programming-language/blob/main/solidity-0.8.7/state_variable.sol)
+- [Local Variable] - [Code](https://github.com/basant0x01/solidity-programming-language/blob/main/solidity-0.8.7/local_variables.sol)
+- [Global Variable] - [Code](https://github.com/basant0x01/solidity-programming-language/blob/main/solidity-0.8.7/global_variables.sol)
+- [Data Types] - [Code](https://github.com/basant0x01/solidity-programming-language/blob/main/solidity-0.8.7/data_types.sol)
+- [Immutable] - [Code](https://github.com/basant0x01/solidity-programming-language/blob/main/solidity-0.8.7/immutable.sol)
+- [Functions] - [Code](https://github.com/basant0x01/solidity-programming-language/blob/main/solidity-0.8.7/function.sol)
+- [Ether & Wei] - [Code](https://github.com/basant0x01/solidity-programming-language/blob/main/solidity-0.8.7/ether_and_wei.sol)
 - [Gas Spent & Gas Price]
 - [Function Visibility]
-- [Pure Vs View](https://github.com/basant0x01/solidity-programming-language/blob/main/solidity-0.8.7/pure_vs_view.sol)
+- [Pure Vs View] - [Code](https://github.com/basant0x01/solidity-programming-language/blob/main/solidity-0.8.7/pure_vs_view.sol)
 - [Default Values]
 - [Constants]
 - [Bitwise Operators]
