@@ -17,7 +17,7 @@ contract ternaryOperator{
    }
 
 
-   // Using tranary operator
+   // Using ternary operator
    function ageCalc(uint _age) public pure returns(string memory) {
      return _age > 18 ? "i'm an adult":"i'm a island boy";
    }
