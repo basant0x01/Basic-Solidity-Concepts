@@ -17,7 +17,7 @@ Solidity is an object-oriented programming language for implementing smart contr
 - [Pure Vs View] - [Code](https://github.com/basant0x01/solidity-programming-language/blob/main/solidity-0.8.7/pure_vs_view.sol)
 - [Default Values] - [Code](https://github.com/basant0x01/solidity-programming-language/blob/main/solidity-0.8.7/data_types.sol)
 - [Constants] - [Code](https://github.com/basant0x01/solidity-programming-language/blob/main/solidity-0.8.7/constant.sol)
-- [Bitwise Operators]
+- [Bitwise Operators] - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/bitwise_operator.sol)
 - [Constructor]
 - [Loops]
 - [If Else]
