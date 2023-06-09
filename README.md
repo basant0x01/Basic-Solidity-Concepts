@@ -29,14 +29,14 @@ Solidity is an object-oriented programming language for implementing smart contr
 - [Enum] - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/enum.sol)
 - [Mapping] - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/mapping.sol)
 - [Struct With Mapping] - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/struct_with_mapping.sol)
-- [Payable] - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/payable.sol)
+- [Payable]
 - [Receive & Fallback] - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/receive_and_fallback.sol)
 - [Events] - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/event.sol)
 - [Inheritance] - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/inheritance.sol)
 - [Multiple Inheritance] - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/multiple_inheritance.md)
 - [Require, Revert & Assert]
 - [Function Modifier]
-- [Ether - Send, Call & Transfer]
+- [Ether - Send, Call & Transfer] - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/ether-transfer_send_and_call.sol)
 - [DelegateCall]
 - [Data Location - Storage, Memory & Calldata]
 - [Inbuilt Cryptographic Hash - Keccak256, Sha256, Ripemd160]
