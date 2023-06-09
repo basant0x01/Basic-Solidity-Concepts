@@ -17,7 +17,7 @@ contract loopsExample{
       while(forLoopCounter>=9){
          whileLoopCounter = whileLoopCounter + 1;
          if(whileLoopCounter>=20){
-            break;
+            break; // breaking loop otherwise, it will run untill the total gas finished.
          }
       }
    }
