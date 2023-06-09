@@ -20,7 +20,7 @@ Solidity is an object-oriented programming language for implementing smart contr
 - [Bitwise Operators] - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/bitwise_operator.sol)
 - [Constructor] - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/constructor.sol)
 - [Loops] - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/loops.sol)
-- [If Else]
+- [If Else] - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/if_else.sol)
 - [Continue & Break]
 - [Tranary Operators]
 - [Array] - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/array.sol)
