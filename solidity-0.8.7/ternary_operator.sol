@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.7;
 
-contract tranaryOperator{
+contract ternaryOperator{
 
    // We can write if else condition in shortest form using tranary operator
    // this can save gas cost
