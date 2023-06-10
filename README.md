@@ -34,7 +34,7 @@ Solidity is an object-oriented programming language for implementing smart contr
 - [Events] - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/event.sol)
 - [Inheritance] - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/inheritance.sol)
 - [Multiple Inheritance] - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/multiple_inheritance.md)
-- [Require, Revert & Assert]
+- [Require, Revert & Assert] - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/require_revert_and_assert.sol)
 - [Function Modifier]
 - [Ether - Send, Call & Transfer] - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/ether-transfer_send_and_call.sol)
 - [DelegateCall]
