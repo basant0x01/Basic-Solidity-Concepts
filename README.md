@@ -3,7 +3,6 @@
 Solidity is an object-oriented programming language for implementing smart contracts on various blockchain platforms, most notably, Ethereum. And here's are the solidity modules with my own examples.
 
 ## Solidity 0.8.7 Topics
-
 - [Helloworld](https://github.com/basant-karki/solidity-programming-language/blob/main/explainations/helloworld.md) - [Code](https://github.com/basant-karki/solidity-programming-language/blob/main/solidity-0.8.7/helloworld.sol)
 - [State Variable] - [Code](https://github.com/basant0x01/solidity-programming-language/blob/main/solidity-0.8.7/state_variable.sol)
 - [Local Variable] - [Code](https://github.com/basant0x01/solidity-programming-language/blob/main/solidity-0.8.7/local_variables.sol)
@@ -37,7 +36,6 @@ Solidity is an object-oriented programming language for implementing smart contr
 - [Require, Revert & Assert] - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/require_revert_and_assert.sol)
 - [Function Modifier] - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/function_modifier.sol)
 - [Ether - Send, Call & Transfer] - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/ether-transfer_send_and_call.sol)
-- [DelegateCall]
 - [Data Location - Storage, Memory & Calldata]
 - [Inbuilt Cryptographic Hash - Keccak256, Sha256, Ripemd160]
 - [Solidity ABI Encode/Decode]
@@ -47,3 +45,6 @@ Solidity is an object-oriented programming language for implementing smart contr
 - [Calling Other Contracts]
 - [Creating Contracts from Contract]
 - [Import Contracts]
+
+### Advance Topics
+- [DelegateCall & Multi-DelegateCall]
