@@ -1,5 +1,4 @@
 # Basic Solidity Programming Language
-
 Solidity is an object-oriented programming language for implementing smart contracts on various blockchain platforms, most notably, Ethereum. And here's are the solidity modules with my own examples.
 
 ## Solidity 0.8.7 Topics
@@ -39,12 +38,10 @@ Solidity is an object-oriented programming language for implementing smart contr
 - [Data Location - Storage, Memory & Calldata]
 - [Inbuilt Cryptographic Hash - Keccak256, Sha256, Ripemd160]
 - [Solidity ABI Encode/Decode]
-- [Solidit Library]
+- [Solidity Library]
 - [Solidity Try Catch Block]
 - [Super Keywords]
+- [Verify Signature]
 - [Calling Other Contracts]
 - [Creating Contracts from Contract]
 - [Import Contracts]
-
-### Advance Topics
-- [DelegateCall & Multi-DelegateCall]
