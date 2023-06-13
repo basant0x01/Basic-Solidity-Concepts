@@ -40,7 +40,6 @@ Solidity is an object-oriented programming language for implementing smart contr
 - [Inbuilt Cryptographic Hash - Keccak256, Sha256, Ripemd160]
 - [Solidity ABI Encode/Decode]
 - [Solidity Library]
-- [Super Keywords]
 - [Verify Signature]
 - [Calling Other Contracts]
 - [Creating Contracts from Contract]
