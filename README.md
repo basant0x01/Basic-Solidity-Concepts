@@ -40,5 +40,5 @@ Solidity is an object-oriented programming language for implementing smart contr
 - [Solidity ABI Encode/Decode] - [Code](https://github.com/basant0x01/basic-solidity-concepts/blob/main/solidity-0.8.7/abiEncodeDecode.sol)
 - [Interface] - [Code](https://github.com/basant0x01/basic-solidity-concepts/blob/main/solidity-0.8.7/interface.sol)
 - [Abstract] - [Code](https://github.com/basant0x01/basic-solidity-concepts/blob/main/solidity-0.8.7/abstract_contract.sol)
-- [Solidity Library]
+- [Solidity Library] - [Code](https://github.com/basant0x01/basic-solidity-concepts/blob/main/solidity-0.8.7/library.sol)
 - [Import Contracts] - [Code](https://github.com/basant0x01/basic-solidity-concepts/blob/main/solidity-0.8.7/import.sol)
