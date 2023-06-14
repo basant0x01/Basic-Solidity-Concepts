@@ -39,6 +39,6 @@ Solidity is an object-oriented programming language for implementing smart contr
 - [Inbuilt Cryptographic Hash - Keccak256, Sha256, Ripemd160] - [Code](https://github.com/basant0x01/basic-solidity-concepts/blob/main/solidity-0.8.7/cryptographic_hashes.sol)
 - [Solidity ABI Encode/Decode] - [Code](https://github.com/basant0x01/basic-solidity-concepts/blob/main/solidity-0.8.7/abiEncodeDecode.sol)
 - [Interface] - [Code](https://github.com/basant0x01/basic-solidity-concepts/blob/main/solidity-0.8.7/interface.sol)
-- [Abstract]
+- [Abstract] - [Code](https://github.com/basant0x01/basic-solidity-concepts/blob/main/solidity-0.8.7/abstract_contract.sol)
 - [Solidity Library]
 - [Import Contracts] - [Code](https://github.com/basant0x01/basic-solidity-concepts/blob/main/solidity-0.8.7/import.sol)
