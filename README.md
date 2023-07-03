@@ -42,3 +42,4 @@ Solidity is an object-oriented programming language for implementing smart contr
 - Abstract - [Code](https://github.com/basant0x01/basic-solidity-concepts/blob/main/solidity-0.8.7/abstract_contract.sol)
 - Solidity Library - [Code](https://github.com/basant0x01/basic-solidity-concepts/blob/main/solidity-0.8.7/library.sol)
 - Import Contracts - [Code](https://github.com/basant0x01/basic-solidity-concepts/blob/main/solidity-0.8.7/import.sol)
+- Call and DelegateCall - [Code](https://github.com/basant0x01/basic-solidity-concepts/blob/main/solidity-0.8.7/call_and_delegateCall.sol)
