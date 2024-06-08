@@ -45,4 +45,12 @@ Solidity is an object-oriented programming language for implementing smart contr
 - Call and DelegateCall - [Code](https://github.com/basant0x01/basic-solidity-concepts/blob/main/solidity-0.8.7/call_and_delegateCall.sol)
 - Multi-DelegateCall
 - Transparent Upgradable Proxy
+- Try / Catch
+- Verifying Signature
+- Unchecked Math
+- Assembly Variable
+- Assembly Conditional Statements
+- Assembly Loop
+- Assembly Error
+- Assembly Math
 
