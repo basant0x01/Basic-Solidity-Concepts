@@ -48,9 +48,4 @@ Solidity is an object-oriented programming language for implementing smart contr
 - Try / Catch
 - Verifying Signature
 - Unchecked Math
-- Assembly Variable
-- Assembly Conditional Statements
-- Assembly Loop
-- Assembly Error
-- Assembly Math
 
