@@ -4,12 +4,12 @@ pragma solidity 0.8.7;
 contract MainContract{
       // So we are learning about the fixed size bytes array.
 
-      bytes4 public byt1; // Fixed Size 
+      bytes4 public byte1; // Fixed Size 
       bytes3 public byte2; // Fixed Size
       bytes public dynamicbyte = "abcde"; // Dynamic Size
 
       function valueSetterInFixed() public {
-            byt1 = "abcd"; // bytes4: 0x61,62,63,64
+            byte1 = "abcd"; // bytes4: 0x61,62,63,64
             byte2 = "123"; // bytes3: 0x31,32,33
       }
 
