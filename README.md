@@ -38,7 +38,7 @@ Solidity is an object-oriented programming language for implementing smart contr
 - Function Modifier - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/function_modifier.sol)
 - Ether - Send, Call & Transfer - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/ether-transfer_send_and_call.sol)
 - Data Location - Storage, Memory & Calldata - [Code](https://github.com/basant0x01/basic-solidity-concepts/blob/main/solidity-0.8.7/data_locations.sol)
-## PART - 2
+## PART - 3
 - Inbuilt Cryptographic Hash - Keccak256, Sha256, Ripemd160 - [Code](https://github.com/basant0x01/basic-solidity-concepts/blob/main/solidity-0.8.7/cryptographic_hashes.sol)
 - Solidity ABI Encode/Decode - [Code](https://github.com/basant0x01/basic-solidity-concepts/blob/main/solidity-0.8.7/abiEncodeDecode.sol)
 - Interface - [Code](https://github.com/basant0x01/basic-solidity-concepts/blob/main/solidity-0.8.7/interface.sol)
