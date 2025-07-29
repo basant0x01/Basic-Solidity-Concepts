@@ -22,6 +22,7 @@ Solidity is an object-oriented programming language for implementing smart contr
 - Continue & Break - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/continue_and_break.sol)
   - Continue Verification - [Code](https://github.com/basant0x01/Basic-Solidity-Concepts/blob/main/solidity-0.8.7/continue_verification.sol)
 - Ternary Operator - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/ternary_operator.sol)
+
 - Array - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/array.sol)
 - Bytes - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/bytes.sol)
 - Struct - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/struct.sol)
@@ -36,6 +37,7 @@ Solidity is an object-oriented programming language for implementing smart contr
 - Require, Revert & Assert - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/require_revert_and_assert.sol)
 - Function Modifier - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/function_modifier.sol)
 - Ether - Send, Call & Transfer - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/ether-transfer_send_and_call.sol)
+
 - Data Location - Storage, Memory & Calldata - [Code](https://github.com/basant0x01/basic-solidity-concepts/blob/main/solidity-0.8.7/data_locations.sol)
 - Inbuilt Cryptographic Hash - Keccak256, Sha256, Ripemd160 - [Code](https://github.com/basant0x01/basic-solidity-concepts/blob/main/solidity-0.8.7/cryptographic_hashes.sol)
 - Solidity ABI Encode/Decode - [Code](https://github.com/basant0x01/basic-solidity-concepts/blob/main/solidity-0.8.7/abiEncodeDecode.sol)
