@@ -19,34 +19,34 @@ Solidity is an object-oriented programming language for implementing smart contr
 - Constructor - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/constructor.sol)
 - Loops - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/loops.sol)
 - If Else - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/if_else.sol)
-- @Continue & Break - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/continue_and_break.sol)
+- Continue & Break - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/continue_and_break.sol)
   - Continue Verification - [Code](https://github.com/basant0x01/Basic-Solidity-Concepts/blob/main/solidity-0.8.7/continue_verification.sol)
 - Ternary Operator - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/ternary_operator.sol)
-- @Array - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/array.sol)
-- @Bytes - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/bytes.sol)
-- @Struct - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/struct.sol)
-- @Enum - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/enum.sol)
-- @Mapping - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/mapping.sol)
-- @Struct With Mapping - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/struct_with_mapping.sol)
-- @Payable - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/payable.sol)
-- @Receive & Fallback - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/receive_and_fallback.sol)
-- @Events - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/event.sol)
-- @Inheritance - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/inheritance.sol)
-- @Multiple Inheritance - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/multiple_inheritance.md)
-- @Require, Revert & Assert - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/require_revert_and_assert.sol)
+- Array - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/array.sol)
+- Bytes - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/bytes.sol)
+- Struct - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/struct.sol)
+- Enum - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/enum.sol)
+- Mapping - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/mapping.sol)
+- Struct With Mapping - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/struct_with_mapping.sol)
+- Payable - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/payable.sol)
+- Receive & Fallback - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/receive_and_fallback.sol)
+- Events - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/event.sol)
+- Inheritance - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/inheritance.sol)
+- Multiple Inheritance - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/multiple_inheritance.md)
+- Require, Revert & Assert - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/require_revert_and_assert.sol)
 - Function Modifier - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/function_modifier.sol)
-- @Ether - Send, Call & Transfer - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/ether-transfer_send_and_call.sol)
-- @Data Location - Storage, Memory & Calldata - [Code](https://github.com/basant0x01/basic-solidity-concepts/blob/main/solidity-0.8.7/data_locations.sol)
-- @Inbuilt Cryptographic Hash - Keccak256, Sha256, Ripemd160 - [Code](https://github.com/basant0x01/basic-solidity-concepts/blob/main/solidity-0.8.7/cryptographic_hashes.sol)
-- @Solidity ABI Encode/Decode - [Code](https://github.com/basant0x01/basic-solidity-concepts/blob/main/solidity-0.8.7/abiEncodeDecode.sol)
-- @Interface - [Code](https://github.com/basant0x01/basic-solidity-concepts/blob/main/solidity-0.8.7/interface.sol)
-- @Abstract - [Code](https://github.com/basant0x01/basic-solidity-concepts/blob/main/solidity-0.8.7/abstract_contract.sol)
+- Ether - Send, Call & Transfer - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/ether-transfer_send_and_call.sol)
+- Data Location - Storage, Memory & Calldata - [Code](https://github.com/basant0x01/basic-solidity-concepts/blob/main/solidity-0.8.7/data_locations.sol)
+- Inbuilt Cryptographic Hash - Keccak256, Sha256, Ripemd160 - [Code](https://github.com/basant0x01/basic-solidity-concepts/blob/main/solidity-0.8.7/cryptographic_hashes.sol)
+- Solidity ABI Encode/Decode - [Code](https://github.com/basant0x01/basic-solidity-concepts/blob/main/solidity-0.8.7/abiEncodeDecode.sol)
+- Interface - [Code](https://github.com/basant0x01/basic-solidity-concepts/blob/main/solidity-0.8.7/interface.sol)
+- Abstract - [Code](https://github.com/basant0x01/basic-solidity-concepts/blob/main/solidity-0.8.7/abstract_contract.sol)
 - Solidity Library - [Code](https://github.com/basant0x01/basic-solidity-concepts/blob/main/solidity-0.8.7/library.sol)
 - Import Contracts - [Code](https://github.com/basant0x01/basic-solidity-concepts/blob/main/solidity-0.8.7/import.sol)
-- @Call and DelegateCall - [Code](https://github.com/basant0x01/basic-solidity-concepts/blob/main/solidity-0.8.7/call_and_delegateCall.sol)
-- @Multi-DelegateCall
-- @Transparent Upgradable Proxy
-- @Try / Catch
-- @Verifying Signature
-- @Unchecked Math
+- Call and DelegateCall - [Code](https://github.com/basant0x01/basic-solidity-concepts/blob/main/solidity-0.8.7/call_and_delegateCall.sol)
+- Multi-DelegateCall
+- Transparent Upgradable Proxy
+- Try / Catch
+- Verifying Signature
+- Unchecked Math
 
