@@ -1,7 +1,7 @@
-# Basic Solidity Programming Language
+# Basic Solidity Programming Language [ Solidity 0.8.7 Topics ]
 Solidity is an object-oriented programming language for implementing smart contracts on various blockchain platforms, most notably, Ethereum. And here are the solidity modules with my own examples.
 
-## Solidity 0.8.7 Topics
+## PART - 1
 - Hello world - [Code](https://github.com/basant-karki/solidity-programming-language/blob/main/solidity-0.8.7/helloworld.sol)
 - State Variable - [Code](https://github.com/basant0x01/solidity-programming-language/blob/main/solidity-0.8.7/state_variable.sol)
 - Local Variable - [Code](https://github.com/basant0x01/solidity-programming-language/blob/main/solidity-0.8.7/local_variables.sol)
@@ -22,6 +22,7 @@ Solidity is an object-oriented programming language for implementing smart contr
 - Continue & Break - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/continue_and_break.sol)
   - Continue Verification - [Code](https://github.com/basant0x01/Basic-Solidity-Concepts/blob/main/solidity-0.8.7/continue_verification.sol)
 - Ternary Operator - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/ternary_operator.sol)
+## PART - 2
 - Array - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/array.sol)
 - Bytes - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/bytes.sol)
 - Struct - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/struct.sol)
@@ -37,6 +38,7 @@ Solidity is an object-oriented programming language for implementing smart contr
 - Function Modifier - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/function_modifier.sol)
 - Ether - Send, Call & Transfer - [Code](https://github.com/basant0x01/basic-solidity-programming-language/blob/main/solidity-0.8.7/ether-transfer_send_and_call.sol)
 - Data Location - Storage, Memory & Calldata - [Code](https://github.com/basant0x01/basic-solidity-concepts/blob/main/solidity-0.8.7/data_locations.sol)
+## PART - 2
 - Inbuilt Cryptographic Hash - Keccak256, Sha256, Ripemd160 - [Code](https://github.com/basant0x01/basic-solidity-concepts/blob/main/solidity-0.8.7/cryptographic_hashes.sol)
 - Solidity ABI Encode/Decode - [Code](https://github.com/basant0x01/basic-solidity-concepts/blob/main/solidity-0.8.7/abiEncodeDecode.sol)
 - Interface - [Code](https://github.com/basant0x01/basic-solidity-concepts/blob/main/solidity-0.8.7/interface.sol)
